@@ -1,5 +1,5 @@
 Highway Navigation
-------------------
+-------------------
 Maxtern is driving a car on a 3-lane highway and needs to reach a destination at the end of the highway. The highway is represented by an N×3 matrix, where each cell can be either 0 or 1. The car can only move to a cell containing 0.
 
 ```
